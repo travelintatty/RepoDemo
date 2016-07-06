@@ -8,3 +8,5 @@ This is the added line.
 And this.
 
 New. And more.
+
+New line.
