@@ -7,4 +7,4 @@ This is the added line.
 
 And this.
 
-New.
+New. And more.
